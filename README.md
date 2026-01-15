@@ -30,7 +30,7 @@ Etapa 3:
 
 
 
-## ConclusÃ£o
+## Conclusão
 A implementação dos serviços AWS demonstrou ser uma solução eficiente para empresas do setor farmacêutico que buscam reduzir custos e aumentar a eficiência operacional. A adoção da nuvem possibilita maior flexibilidade, controle financeiro e preparo para crescimento futuro.
 
 ## Anexos
