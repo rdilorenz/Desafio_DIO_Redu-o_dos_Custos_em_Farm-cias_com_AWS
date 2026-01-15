@@ -5,7 +5,7 @@ Empresa: Abstergo Industries
 Responsável: Rafael Di Lorenzo
 
 ## Introdução
-Este relatÃ³rio apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Rafael Di Lorenzo. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Rafael Di Lorenzo. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
 ## Descrição do Projeto
 Este projeto foi desenvolvido como parte de um desafio prático da DIO, com o objetivo de simular a implementação de serviços da Amazon Web Services (AWS) em uma farmácia fictícia, visando a redução imediata de custos operacionais e a modernização da infraestrutura de TI.
